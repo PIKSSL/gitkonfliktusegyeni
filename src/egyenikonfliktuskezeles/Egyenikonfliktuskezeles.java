@@ -5,6 +5,7 @@ public class Egyenikonfliktuskezeles {
 
         String nev1 = "GyK";
         String nev2 = "X.Y.";
+        String nev3;
 
         
 
